@@ -44,7 +44,7 @@ print(a)
 '''
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 '''
-#it was using order of operations and dividing by z by 3 first
+#it was using order of operations and dividing z by 3 first
 x,y,z=(3,4,5)
 ave=(x+y+z)/3
 print(ave)
